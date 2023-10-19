@@ -42923,7 +42923,7 @@ A.aaA.prototype={
 $0(){var s=0,r=A.Q(t.H)
 var $async$$0=A.R(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:s=2
-return A.S(A.DG(A.ea("https://discord.gg/6uU8C842",0,null)),$async$$0)
+return A.S(A.DG(A.ea("https://discord.gg/84VjSCtvvt",0,null)),$async$$0)
 case 2:if(!b)throw A.c(A.bS("Could not launch"))
 return A.O(null,r)}})
 return A.P($async$$0,r)},
