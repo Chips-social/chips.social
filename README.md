@@ -1,2 +1,0 @@
-# chips.social
-Chips Website

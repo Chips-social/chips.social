@@ -1,6 +1,6 @@
 {
-    "name": "chip_website",
-    "short_name": "chip_website",
+    "name": "chips_demowebsite",
+    "short_name": "chips_demowebsite",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
