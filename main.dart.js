@@ -59447,7 +59447,7 @@ return A.a5(s,new A.aB(new A.X(4,10,4,10),A.at(r.gj(0)?"Remove from saved":"Save
 $S:29}
 A.aBr.prototype={
 $0(){var s=null
-return A.a5(B.cf,A.hw(this.a.f.p2.gj(0)?"assets/icons/group2.png":"assets/icons/group.png",s,60,60),B.f,s,s,s,s,s,s,new A.X(0,6,0,0),s,s,s,s)},
+return A.a5(B.cf,A.hw(this.a.x.fy.gj(0)?"assets/icons/group2.png":"assets/icons/group.png",s,60,60),B.f,s,s,s,s,s,s,new A.X(0,6,0,0),s,s,s,s)},
 $S:29}
 A.aBA.prototype={
 $0(){var s=null
